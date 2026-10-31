@@ -1,0 +1,6 @@
+{
+  "name": "CyberSlash: Neon Fruit Cut Arcade",
+  "description": "Modern dark neon Fruit Cut arcade game featuring fluid blade slicing, juicy neon splatters, bombs, leaderboards, and synthwave soundtrack.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
